@@ -1,5 +1,3 @@
-# 192512006-5g--6g-communication
-
 EXP 1
 
 OBJECTIVE 1
